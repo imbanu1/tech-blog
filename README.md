@@ -1,21 +1,32 @@
 
 ### My Tech Blog
+https://github.com/imbanu1/tech-blog
+
+https://www.loom.com/share/e1a09659de304c729fe826497b7927c2?sid=e7baea99-cb02-453d-9f8a-27909fd54a14
+
+https://techy-blog-47d86e606c6e.herokuapp.com/
 
 #### Description:
 My Tech Blog is a platform where users can share their thoughts, experiences, and insights on various topics related to technology. It provides a space for tech enthusiasts, professionals, and hobbyists to engage in discussions, share knowledge, and stay updated with the latest trends in the tech industry.
 
 #### URL:
-The live version of My Tech Blog can be accessed at [https://www.mytechblog.com](https://www.mytechblog.com)
+The live version of My Tech Blog can be accessed at (https://techy-blog-47d86e606c6e.herokuapp.com/)
 
 #### Recording:
-Currently, there is no recording available for My Tech Blog.
+https://www.loom.com/share/e1a09659de304c729fe826497b7927c2?sid=2e8f0daa-91dd-458f-8ecb-12f0c9d299b6
 
 #### Images:
 ![alt text](images/techblog1.png)
 *Screenshot of the homepage of My Tech Blog*
 
+![alt text](image.png)
+*Screenshot of the login/signup page of My Tech Blog*
 
+![alt text](image-1.png)
 *Screenshot of the dashboard page of My Tech Blog*
+
+![alt text](image-2.png)
+*Screenshot of the post creation page of My Tech Blog*
 
 #### Technologies Used:
 - **Frontend**:
@@ -87,6 +98,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 #### Contact:
 For any inquiries or feedback, please contact [Ikechukwu Mbanugo](mailto:imbanu1@gmail.com).
-
----
-Feel free to customize the README according to your project's specifics and add any additional sections as needed.
