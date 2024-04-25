@@ -1,0 +1,37 @@
+  {{! Edit Blog Post Page }}
+<div class="container">
+  <div class="row">
+    <div class="col-md-10 mx-auto text-left">
+  <form class="createBlogPost" id="submitEdit">
+    {{! This form handles the editing of a blog post. }}
+    {{! Here, you can modify the title and body of the post. }}
+    <div class="mt-5 mb-3">
+      <label class="form-label">Title</label>
+      <input
+        class="form-control"
+        id="titleInput"
+        maxlength="50"
+        value="{{title}}"
+      />
+    </div>
+    {{! The body of the blog post. }}
+    <div class="mb-3">
+      <label class="form-label">Body</label>
+      <textarea
+        class="form-control"
+        id="bodyInput"
+        rows="10"
+      >{{description}}</textarea>
+    </div>
+    {{! Submit button for saving the changes. }}
+    <div class="text-center">
+      <button
+        type="submit"
+        class="text-center mt-3 btn btn-dark btn-lg btn-block"
+      >Submit</button>
+    </div>
+  </form>
+
+</div>
+  </div>
+</div>
