@@ -2,7 +2,7 @@
 ### My Tech Blog
 https://github.com/imbanu1/tech-blog
 
-https://www.loom.com/share/e1a09659de304c729fe826497b7927c2?sid=e7baea99-cb02-453d-9f8a-27909fd54a14
+https://www.loom.com/share/7fbdd4acbf8e4fd69f155838cd451a15?sid=e54ac42b-a5f8-4e8f-8acf-55ab2c6a70e5
 
 https://techy-blog-47d86e606c6e.herokuapp.com/
 
