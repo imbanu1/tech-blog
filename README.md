@@ -13,7 +13,7 @@ My Tech Blog is a platform where users can share their thoughts, experiences, an
 The live version of My Tech Blog can be accessed at (https://techy-blog-47d86e606c6e.herokuapp.com/)
 
 #### Recording:
-https://www.loom.com/share/e1a09659de304c729fe826497b7927c2?sid=2e8f0daa-91dd-458f-8ecb-12f0c9d299b6
+https://www.loom.com/share/7fbdd4acbf8e4fd69f155838cd451a15?sid=e54ac42b-a5f8-4e8f-8acf-55ab2c6a70e5
 
 #### Images:
 ![alt text](images/techblog1.png)
