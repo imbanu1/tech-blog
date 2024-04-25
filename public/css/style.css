@@ -1,0 +1,84 @@
+/* General page styles */
+
+header {
+    font-family: "Roboto", sans-serif; 
+  }
+  
+  body {
+    background-color: #a2c4c9; 
+  }
+  
+  h1 {
+    font-family: "Roboto", sans-serif; 
+    background-color: #3f88c5; 
+    color: #fff; 
+    padding: 16px;
+    margin-bottom: 5px;
+  }
+  
+  #blogName {
+    color: #ffffff; 
+  }
+  
+  main {
+    font-family: "Roboto", sans-serif; 
+    margin-top: -5px;
+    background-color: #a2c4c9; 
+  }
+  .homepage-main {
+    margin-top: 34px;
+  }
+  .blogPost-main {
+    margin-top: 34px;
+  }
+  
+ 
+  
+  .user-name {
+    background-color: #3f88c5; 
+  }
+  
+  .navBar {
+    background-color: #3f88c5; 
+  }
+  
+  #logout {
+    background-color: #3f88c5; 
+  }
+  
+  
+  #titleInput,
+  #bodyInput,
+  #comment,
+  #email-login,
+  #password-login,
+  #name-signup,
+  #email-signup,
+  #password-signup {
+    background-color: #e5eaf5;
+  }
+ 
+  
+  .btn {
+    background-color: #3f88c5; 
+    color: #fff; 
+  }
+  
+  .card-body {
+    background-color: #ffffff; 
+  }
+  
+  .card-header {
+    background-color: #e5eaf5;
+  }
+  
+  .card {
+    background-color: #ffffff; 
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); 
+    transform: translateY(-5px); 
+  }
+  
